@@ -79,23 +79,23 @@ authentication-system-styled/
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### Registration Page
 
-![Login](screenshots/Register.png.png)
+![Register](screenshots/Register.png)
 
 ### Forgot Password
 
-![Login](screenshots/Forgot-Password.png.png)
+![Forgot](screenshots/forgot-.png)
 
 ### Reset Password
 
-![Login](screenshots/Reset-Password.png.png)
+![Reset](screenshots/reset.png)
 
 ### Dashboard
 
-![Login](screenshots/Dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
