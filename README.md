@@ -35,8 +35,8 @@ All pages are connected using navigation and enhanced with modern UI design.
 
 ### Advanced Features (Bonus)
 
-- Show/Hide password toggle 👁️
-- Password strength indicator 🔒
+- Show/Hide password toggle 
+- Password strength indicator 
 - Smooth hover animations
 - Input focus glow effects
 - Responsive navbar
@@ -79,23 +79,23 @@ authentication-system-styled/
 
 ### Login Page
 
-![Login](screenshots/Login.png)
+![Login](Screenshots/Login.png)
 
 ### Registration Page
 
-![Register](screenshots/Register.png)
+![Register](Screenshots/Register.png)
 
 ### Forgot Password
 
-![Forgot](screenshots/forgot-.png)
+![Forgot](Screenshots/forgot-.png)
 
 ### Reset Password
 
-![Reset](screenshots/reset.png)
+![Reset](Screenshots/reset.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
@@ -103,9 +103,9 @@ authentication-system-styled/
 
 This project is fully responsive and tested on:
 
-- Desktop 💻
-- Tablet 📱
-- Mobile 📲
+- Desktop 
+- Tablet 
+- Mobile 
 
 ## 👨‍💻 Author
 
