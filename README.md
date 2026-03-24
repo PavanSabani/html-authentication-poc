@@ -87,7 +87,7 @@ authentication-system-styled/
 
 ### Forgot Password
 
-![Forgot](Screenshots/forgot-.png)
+![Forgot](Screenshots/forgot.png)
 
 ### Reset Password
 
@@ -95,7 +95,7 @@ authentication-system-styled/
 
 ### Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
